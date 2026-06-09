@@ -1,9 +1,9 @@
 # Easy1
 
-**Platform:** picoCTF 2019
-**Category:** Cryptography
-**Difficulty:** Medium
-**Author:** Alex Fulton / Danny
+**Platform:** picoCTF/CyLab 2019  
+**Category:** Cryptography  
+**Difficulty:** Medium  
+**Author:** Alex Fulton / Danny  
 
 ## Challenge Description
 
