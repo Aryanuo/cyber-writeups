@@ -143,12 +143,6 @@ U - S = C
 
 Repeating the calculation for every character:
 
-```text
-
-```
-
----
-
 ## Flag
 
 ```text
