@@ -1,9 +1,9 @@
 # StegoRSA
 
-**Platform:** picoCTF 2026
-**Category:** Cryptography
-**Difficulty:** Easy
-**Author:** Yahaya Meddy
+**Platform:** picoCTF/CyLab 2026  
+**Category:** Cryptography  
+**Difficulty:** Easy  
+**Author:** Yahaya Meddy  
 
 ## Challenge Description
 
