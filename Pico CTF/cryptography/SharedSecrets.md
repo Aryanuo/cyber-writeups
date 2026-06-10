@@ -1,10 +1,10 @@
 # Shared Secrets
 
-**Platform:** picoCTF / CyLab 2026
-**Category:** Cryptography
-**Difficulty:** Easy
-**Author:** Yahaya Meddy
-**Challenge Link:** https://learn.cylabacademy.org/library/715?page=1&category=2&event=79
+**Platform:** picoCTF / CyLab 2026  
+**Category:** Cryptography  
+**Difficulty:** Easy  
+**Author:** Yahaya Meddy  
+[**Challenge Link:**](https://learn.cylabacademy.org/library/715?page=1&category=2&event=79)  
 
 ---
 

@@ -1,9 +1,10 @@
 # StegoRSA
 
-**Platform:** picoCTF/CyLab 2026  
-**Category:** Cryptography  
-**Difficulty:** Easy  
-**Author:** Yahaya Meddy  
+**Platform:** picoCTF/CyLab 2026    
+**Category:** Cryptography    
+**Difficulty:** Easy    
+**Author:** Yahaya Meddy    
+**[Challenge LINK](https://learn.cylabacademy.org/library/719?page=1&search=steg)**  
 
 ## Challenge Description
 
