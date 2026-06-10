@@ -20,7 +20,7 @@
 
 ## Background
 
-## Diffie–Hellman Key Exchange (DH)
+### Diffie–Hellman Key Exchange (DH)
 
 Diffie–Hellman is a cryptographic protocol that allows two parties to establish a shared secret over an insecure channel without ever transmitting the secret itself.
 

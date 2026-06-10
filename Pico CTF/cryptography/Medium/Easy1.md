@@ -1,10 +1,11 @@
-# Easy1
+# Easy1  
 
 **Platform:** picoCTF/CyLab 2019  
 **Category:** Cryptography  
 **Difficulty:** Medium  
 **Author:** Alex Fulton / Danny  
 **[Challenge LINK](https://learn.cylabacademy.org/library/43?page=1&search=easy1)**  
+
 ---
 
 ## Challenge Description
