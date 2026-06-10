@@ -18,7 +18,7 @@
 
 ---
 
-# Background
+## Background
 
 ## Diffie–Hellman Key Exchange (DH)
 
@@ -91,14 +91,14 @@ The security of Diffie–Hellman depends on keeping the private keys secret.
 
 ---
 
-# Files Provided
+## Files Provided
 
 * `encryption.py` – Contains the Diffie–Hellman implementation and encryption logic.
 * `message.txt` – Contains the public parameters and encrypted message.
 
 ---
 
-# Initial Analysis
+## Initial Analysis
 
 Inspecting `message.txt` reveals:
 
@@ -132,7 +132,7 @@ Once the shared secret is known, the encryption key can be derived and the ciphe
 
 ---
 
-# Solution
+## Solution
 
 Create a Python script:
 
@@ -173,7 +173,7 @@ The script computes the shared secret using the leaked private key, derives the 
 
 ---
 
-# Flag
+## Flag
 
 ```text
 picoCTF{REDACTED}
@@ -181,7 +181,7 @@ picoCTF{REDACTED}
 
 ---
 
-# Why the Attack Works
+## Why the Attack Works
 
 The challenge does not exploit a weakness in the Diffie–Hellman algorithm itself.
 
@@ -199,7 +199,7 @@ This completely breaks the confidentiality of the communication.
 
 ---
 
-# Key Takeaways
+## Key Takeaways
 
 * Diffie–Hellman is secure only when private keys remain secret.
 * Possession of one private key and the other party's public key is sufficient to recover the shared secret.
@@ -209,7 +209,7 @@ This completely breaks the confidentiality of the communication.
 
 ---
 
-# Tools Used
+## Tools Used
 
 * Python 3
 * Linux Command Line
