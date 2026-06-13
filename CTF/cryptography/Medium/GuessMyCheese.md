@@ -1,10 +1,10 @@
 # Guess My Cheese (Part 1)
 
-**Platform:** picoCTF / CyLab 2025
-**Category:** Cryptography
-**Difficulty:** Medium
-**Author:** Aditin
-**Challenge Link:** https://learn.cylabacademy.org/library/43?page=1&search=easy1
+**Platform:** picoCTF / CyLab 2025  
+**Category:** Cryptography  
+**Difficulty:** Medium  
+**Author:** Aditin  
+**Challenge Link:** https://learn.cylabacademy.org/library/473?page=1&search=guess
 
 ---
 
